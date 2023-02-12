@@ -4,7 +4,7 @@
 
 - 🔭 Hoje trabalho com Suporte de Software
 - 🌱 Estudando Asp.netCore /ApiRest / C# / React
-- 🌱 Faço Faculdade Analise e Desenvolvimento de Sistema - Universidade Veiga de Almeida
+- 🌱 Faço Faculdade Analise e Desenvolvimento de Sistema - Estacio de Sá
 - 📫 Contate-me no E-mail: leandrolrs955@gmail.com
 
  <div>
