@@ -7,6 +7,8 @@
 - 🌱 Faço Faculdade Analise e Desenvolvimento de Sistema - Estacio de Sá
 - 📫 Contate-me no E-mail: leandrolrs955@gmail.com
 
+Eu sou uma entusiasta em tecnologia e adoro aprender a desenvolver software. Sempre fui fascinada pela capacidade da tecnologia de resolver problemas e melhorar a vida das pessoas, e a programação é uma das ferramentas mais poderosas nesse sentido. A cada novo projeto, descubro algo novo e emocionante sobre a tecnologia, e isso me motiva a continuar aprendendo e me aprimorando como desenvolvedor. Estou sempre aberta a novos desafios e oportunidades de aprendizado, e acredito que a tecnologia pode ser um agente de mudança positiva no mundo.
+
  <div>
   <a href="https://github.com/leandrosantos2018">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosantos2018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
