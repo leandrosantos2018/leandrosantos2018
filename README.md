@@ -3,7 +3,7 @@
 
 
 - 🔭 Sou Analista de Sistemas
-- 🌱 Estudando Asp.netCore /ApiRest / C# / Dart / Flutter
+- 🌱 Estudando Asp.netCore /ApiRest / C# / Dart / Flutter / Java
 - 🌱 Cursando Analise e Desenvolvimento de Sistema - Estacio de Sá
 - 📫 Contate-me no: https://www.linkedin.com/in/leandro-santos-1a8446134/
 
