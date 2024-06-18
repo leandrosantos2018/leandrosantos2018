@@ -4,7 +4,7 @@
 
 - 🔭 Sou Analista de Sistemas
 - 🌱 Estudando Asp.netCore /ApiRest / C# / Dart / Flutter / Java
-- 🌱 Cursando Analise e Desenvolvimento de Sistema - Estacio de Sá
+- 🌱 Cursando Analise e Desenvolvimento de Sistema - Unisuam
 - 📫 Contate-me no: https://www.linkedin.com/in/leandro-santos-1a8446134/
 
 Eu sou uma entusiasta em tecnologia e adoro aprender a desenvolver software. Sempre fui fascinada pela capacidade da tecnologia de resolver problemas e melhorar a vida das pessoas, e a programação é uma das ferramentas mais poderosas nesse sentido. A cada novo projeto, descubro algo novo e emocionante sobre a tecnologia, e isso me motiva a continuar aprendendo e me aprimorando como desenvolvedor. Estou sempre aberta a novos desafios e oportunidades de aprendizado, e acredito que a tecnologia pode ser um agente de mudança positiva no mundo.
