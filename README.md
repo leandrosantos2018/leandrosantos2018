@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sou Analista de Sistemas
+- 🔭 Sou Desenvolvedor 
 - 🌱 Estudando Asp.netCore /ApiRest / C# / Dart / Flutter / Java
 - 🌱 Cursando Analise e Desenvolvimento de Sistema - Unisuam
 - 📫 Contate-me no: https://www.linkedin.com/in/leandro-santos-1a8446134/
