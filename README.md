@@ -1,13 +1,15 @@
-### Olá ! Eu Sou Leandro Santos
+Leandro Santos - Desenvolvedor
+
+🔭 Atualmente:
+ * Desenvolvedor focado em integrações, implementação de IA em produtos (chatbots, agentes AI) e ferramentas para aumento de produtividade.
+ * Estudando: Asp.net Core, API REST, C#, Dart, Flutter e Java.
+ * Cursando Análise e Desenvolvimento de Sistemas na Unisuam.
+📫 Contato:
+ * LinkedIn: https://www.linkedin.com/in/leandro-santos-1a8446134/
+Sobre mim:
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Acredito no poder da tecnologia para solucionar problemas e melhorar vidas. A cada projeto, busco aprender e me aprimorar, impulsionado pela emoção de descobrir novas possibilidades. A tecnologia é uma ferramenta de transformação positiva, e estou sempre pronto para novos desafios e oportunidades de aprendizado nessa jornada.
 
 
-
-- 🔭 Sou Desenvolvedor 
-- 🌱 Estudando Asp.netCore /ApiRest / C# / Dart / Flutter / Java
-- 🌱 Cursando Analise e Desenvolvimento de Sistema - Unisuam
-- 📫 Contate-me no: https://www.linkedin.com/in/leandro-santos-1a8446134/
-
-Eu sou uma entusiasta em tecnologia e adoro aprender a desenvolver software. Sempre fui fascinada pela capacidade da tecnologia de resolver problemas e melhorar a vida das pessoas, e a programação é uma das ferramentas mais poderosas nesse sentido. A cada novo projeto, descubro algo novo e emocionante sobre a tecnologia, e isso me motiva a continuar aprendendo e me aprimorando como desenvolvedor. Estou sempre aberta a novos desafios e oportunidades de aprendizado, e acredito que a tecnologia pode ser um agente de mudança positiva no mundo.
 
  <div>
   <a href="https://github.com/leandrosantos2018">
