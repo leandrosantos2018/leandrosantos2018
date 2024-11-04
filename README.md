@@ -1,4 +1,4 @@
-Leandro Santos - Desenvolvedor
+Leandro Santos - Desenvolvedor II
 
 🔭 Atualmente:
  * Desenvolvedor focado em integrações, implementação de IA em produtos (chatbots, agentes AI) e ferramentas para aumento de produtividade.
